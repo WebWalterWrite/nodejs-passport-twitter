@@ -1,0 +1,17 @@
+{
+  "name": "passportjs",
+  "version": "1.0.0",
+  "description": "tutorials passportjs connexion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sammy WebWalterWrite",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "passport": "^0.4.0",
+    "passport-twitter": "^1.0.4"
+  }
+}
