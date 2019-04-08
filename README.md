@@ -9,4 +9,5 @@ Pour l'exemple, le package passport-twitter a été utilisé mais il en est de m
 ## Pré-requis
 
   * Posséder un compte [Twitter](https://twitter.com/i/flow/signup)
-  * Avoir créer un [compte développeur](https://developer.twitter.com/) et obtenir son approbation
+  * Avoir créé un [compte développeur](https://developer.twitter.com/) et obtenir son approbation
+
